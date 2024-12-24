@@ -1,1 +1,2 @@
-# Ecommerce2uu
+# Ecommerce2 
+My Ecommerce Project
